@@ -1,6 +1,6 @@
 module Data.Range
 
-%access public
+%access public export
 %default total
 
 ||| Range is a generic data type over the `Ord` type class. It describes a value
